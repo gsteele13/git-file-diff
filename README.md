@@ -1,5 +1,7 @@
 # git-file-diff
 
-Let's add some stuff
+and delete some
 
 ANd some more
+
+And add some stuff
